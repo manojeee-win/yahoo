@@ -33,3 +33,5 @@ public class calculator {
 	
 };
 
+just use number3=number1/number2 for division
+
